@@ -1,2 +1,2 @@
 # python_projects
-This re
+*This repository contains some cool python projects. Anyone can contribute. :)
